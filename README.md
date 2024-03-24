@@ -26,7 +26,7 @@ This is a place for my work to live, breathe and evolve
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joserenter1a&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/joserenter1a/joserenter1a.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joserenter1a&repo=joserenter1a.github.io/portfolio&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joserenter1a&repo=portfolio&theme=buefy" />
 </a>
 
 <br />
