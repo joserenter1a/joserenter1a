@@ -31,10 +31,3 @@ This is a place for my work to live, breathe and evolve
 
 <br />
 <br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/joserenter1a/joserenter1a/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/joserenter1a">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/joserenter1a/joserenter1a/master/assets/codesandbox.svg" />
-</a>
