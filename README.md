@@ -23,7 +23,7 @@ This is a place for my work to live, breathe and evolve
 
 
 <a href="https://github.com/joserenter1a/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joserenter1a&repo=github-readme-stats&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joserenter1a&repo=Auth-Master&theme=dark" />
 </a>
 <a href="https://github.com/joserenter1a/joserenter1a.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joserenter1a&repo=portfolio&theme=dark" />
