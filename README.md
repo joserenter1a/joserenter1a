@@ -10,7 +10,7 @@ This is a place for my work to live, breathe and evolve 🌲
 
 - 🎹🏋🏽‍♂️ I like to lift weights and play piano!
 
-- Connect with me on (LinkedIn)[https://www.linkedin.com/in/joserenter1a/]
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/joserenter1a/)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
