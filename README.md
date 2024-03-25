@@ -1,4 +1,4 @@
-# Hi I'm Jose
+# Hi I'm Jose 👋🏼
 
 This is a place for my work to live, breathe and evolve
 
