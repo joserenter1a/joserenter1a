@@ -4,7 +4,7 @@ This is a place for my work to live, breathe and evolve 🌲
 
 **About me**
 
-- 💼 Full-stack developer
+- 💼 Full-stack developer, currently seeking Full-time opportunities
 
 - 🦆 UO Computer Science Class of '24
 
