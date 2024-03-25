@@ -6,7 +6,7 @@ This is a place for my work to live, breathe and evolve 🌲
 
 - 💼 Full-stack developer
 
-- 🦆 UO Class of 2024
+- 🦆 UO Computer Science Class of '24
 
 - 🎹🏋🏽‍♂️ I like to lift weights and play piano!
 
