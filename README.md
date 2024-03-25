@@ -1,6 +1,6 @@
 # Hi I'm Jose 👋🏼
 
-This is a place for my work to live, breathe and evolve
+This is a place for my work to live, breathe and evolve 🌲
 
 **About me**
 
