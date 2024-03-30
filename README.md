@@ -27,8 +27,8 @@ This is a place for my work to live, breathe and evolve 🌲
 <a href="https://github.com/joserenter1a/Auth-Master">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joserenter1a&repo=Auth-Master&theme=dark" />
 </a>
-<a href="https://github.com/joserenter1a/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joserenter1a&repo=portfolio&theme=dark" />
+<a href="https://github.com/joserenter1a/leetcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joserenter1a&repo=leetcode&theme=dark" />
 </a>
 
 <br />
